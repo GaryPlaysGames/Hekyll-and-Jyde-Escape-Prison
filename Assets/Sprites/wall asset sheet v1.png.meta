@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 3fbb75a7b75374668b5839234157f592
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wall asset sheet v1_0
+    21300002: wall asset sheet v1_1
+    21300004: wall asset sheet v1_2
+    21300006: wall asset sheet v1_3
+    21300008: wall asset sheet v1_4
+    21300010: wall asset sheet v1_5
+    21300012: wall asset sheet v1_6
+    21300014: wall asset sheet v1_7
+    21300016: wall asset sheet v1_8
+    21300018: wall asset sheet v1_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wall asset sheet v1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 22
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: .5, y: .351540625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 76
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 74
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 45
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 51
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 24
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall asset sheet v1_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

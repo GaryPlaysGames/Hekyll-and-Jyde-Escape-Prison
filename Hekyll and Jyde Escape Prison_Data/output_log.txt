@@ -1,0 +1,20 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 / HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3053 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Game Projects\Unity\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison\Hekyll and Jyde Escape Prison_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.634 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
